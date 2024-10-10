@@ -1,0 +1,183 @@
+[
+  {
+    "entity": "ARSENALE",
+    "entity_mentions": [
+      "ragione pubblica del reggimento eccellentissimo dell'arsenal",
+      "reggimento dell'arsenal",
+      "reggimento eccellentissimo dell'arsenal"
+    ],
+    "title_mentions": [
+      "ammiraglio",
+      "carica de remeri dell'arsenal",
+      "carica del proto de calafai dell'arsenal",
+      "carica del quadernier dell'arsenal",
+      "carica dell'armiraglio dell'arsenal",
+      "carica di fante dell'arsenal",
+      "carica di portonier dell'arsenal",
+      "carica di proto de calafai dell'arsenal",
+      "carica di proto de remeri dell'arsenal",
+      "carica di proto de tagieri dell'arsenal",
+      "carica di seconda poliza de marangoni",
+      "magistrato dell'artiglieria",
+      "soprintendente il magistrato dell'armar"
+    ]
+  },
+  {
+    "entity": "CONSIGLIO DEI DIECI",
+    "entity_mentions": [
+      "ragione pubblica dell'eccellentissimo consiglio de dieci"
+    ],
+    "title_mentions": []
+  },
+  {
+    "entity": "DOGANA DA MAR",
+    "entity_mentions": ["collegio eccellentissimo della dogana da mar"],
+    "title_mentions": []
+  },
+  {
+    "entity": "GOVERNATORI DELLE ENTRATE",
+    "entity_mentions": [],
+    "title_mentions": [
+      "governatori dell'entrade",
+      "magistrato eccellentissimo de governatori dell'entrate"
+    ]
+  },
+  {
+    "entity": "MAGISTRATI DELLA GRASSA",
+    "entity_mentions": [],
+    "title_mentions": ["eccellentissimo magistrato della grassa"]
+  },
+  {
+    "entity": "MILIZIA DA MAR",
+    "entity_mentions": [
+      "collegio eccellentissimo della militia de mar",
+      "collegio eccellentissimo della milizia da mar",
+      "eccellentissimo collegio della milizia da mar",
+      "militia da mar",
+      "militia di mar",
+      "militia di mare",
+      "milizia",
+      "milizia da mar",
+      "milizzia"
+    ],
+    "title_mentions": [
+      "eccellentissimo magistrato della milizia da mar",
+      "eccellentissimo magistrato delle milizia da mar",
+      "magistrato della milizia"
+    ]
+  },
+  {
+    "entity": "OFFICIALI ALLE RASON VECCHIE",
+    "entity_mentions": [],
+    "title_mentions": ["magistrato eccellentissimo delle rason vechie"]
+  },
+  {
+    "entity": "PROCURATIA",
+    "entity_mentions": ["procuratia"],
+    "title_mentions": []
+  },
+  {
+    "entity": "PROCURATIA D'ULTRA",
+    "entity_mentions": ["procuratia d'ultra"],
+    "title_mentions": []
+  },
+  {
+    "entity": "PROCURATIA DI CITRA",
+    "entity_mentions": ["procuraria di citra", "procuratia di citra"],
+    "title_mentions": []
+  },
+  {
+    "entity": "PROCURATIA DI COMUN",
+    "entity_mentions": ["procuratia di comun"],
+    "title_mentions": []
+  },
+  {
+    "entity": "PROCURATIA DI SUPRA",
+    "entity_mentions": [
+      "eccellentissima procuratia di supra",
+      "procuratia de supra",
+      "procuratia di supra"
+    ],
+    "title_mentions": []
+  },
+  {
+    "entity": "PROCURATIA SIGNORIA",
+    "entity_mentions": ["procuratia eccellentissima signoria"],
+    "title_mentions": []
+  },
+  {
+    "entity": "PROCURATORI BECCHERIE",
+    "entity_mentions": [],
+    "title_mentions": ["eccellentissimi procuratori alle beccarie"]
+  },
+  {
+    "entity": "PROVVEDITORI",
+    "entity_mentions": [],
+    "title_mentions": ["magistrato eccellentisismo de proveditori"]
+  },
+  {
+    "entity": "PROVVEDITORI AL SAL",
+    "entity_mentions": [],
+    "title_mentions": [
+      "appaltatori del magistrato ecc. del sal",
+      "magistrato del sal",
+      "magistrato eccellentisismo del sal",
+      "magistrato eccellentissimo del sal"
+    ]
+  },
+  {
+    "entity": "PROVVEDITORI ALLE BIAVE",
+    "entity_mentions": [],
+    "title_mentions": ["magistrato eccellenstisismo delle biave"]
+  },
+  {
+    "entity": "PROVVEDITORI DI COMUN",
+    "entity_mentions": [],
+    "title_mentions": [
+      "magnistatro eccellentissimo de proveditori di commun",
+      "proveditori di commun",
+      "provveditor di comun"
+    ]
+  },
+  {
+    "entity": "PROVVEDITORI SOPRA OSPEDALI E LUOGHI PII E AL RISCATTO DEGLI SCHIAVI",
+    "entity_mentions": [],
+    "title_mentions": ["magistrato eccellentissimo del riscato de schiavi"]
+  },
+  {
+    "entity": "REPUBBLICA DI VENEZIA",
+    "entity_mentions": [
+      "palazzo del serenissimo doge",
+      "pubblica ragione",
+      "pubblico",
+      "publico",
+      "ragione pubblica",
+      "uso publico"
+    ],
+    "title_mentions": [
+      "ministro di giustizia trovasi in prigione",
+      "residenza del capitan grande"
+    ]
+  },
+  {
+    "entity": "SIGNORI DELLA NOTTE",
+    "entity_mentions": [
+      "colleggio eccellentissimo de signori di notte al criminal"
+    ],
+    "title_mentions": [
+      "eccellentissimi signori della notte",
+      "eccellentissimi signori di notte",
+      "signori di notte"
+    ]
+  },
+  {
+    "entity": "UFFICIO DELLA SETA",
+    "entity_mentions": ["officio de testori da seda", "officio della seda"],
+    "title_mentions": []
+  },
+  {
+    "entity": "UFFICIO DENARO PUBBLICO",
+    "entity_mentions": ["officio presidenti sopra il denaro publico"],
+    "title_mentions": []
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "entity": "BEATA VERGINE DELLE GRAZIE (in San Marcilian)",
+    "entity_mentions": [
+      "scola della beata vergine in san marcilian",
+      "scola della madonna di san marcilian"
+    ]
+  },
+  {
+    "entity": "SCUOLA DEI CIECHI (di San Mois\u00e8)",
+    "entity_mentions": ["scola de ciechi in s. moise"]
+  },
+  {
+    "entity": "SCUOLA DEL CRISTO (in San Marcuola)",
+    "entity_mentions": ["scola de christo in san marcola"]
+  },
+  {
+    "entity": "SCUOLA DEL CROCIFISSO (in Santa Teresa)",
+    "entity_mentions": ["scolettta del crocifisso in santa teresa"]
+  },
+  {
+    "entity": "SCUOLA DEL SANTISSIMO SACRAMENTO (di Castello)",
+    "entity_mentions": ["scuola del santissimo sacramento di castello"]
+  },
+  {
+    "entity": "SCUOLA DEL SANTISSIMO SACRAMENTO (di San Bartolomeo)",
+    "entity_mentions": ["scola del santissimo sacramento"]
+  },
+  {
+    "entity": "SCUOLA DEL SANTISSIMO SACRAMENTO (di San Basso)",
+    "entity_mentions": ["scola del santissimo sacramento di san basso"]
+  },
+  {
+    "entity": "SCUOLA DEL SANTISSIMO SACRAMENTO (di San Gregorio)",
+    "entity_mentions": [
+      "scola del santissimo sacramento di san gregorio",
+      "scola del santissimo sacrramento in san gregoro"
+    ]
+  },
+  {
+    "entity": "SCUOLA DEL SANTISSIMO SACRAMENTO (di San Lio)",
+    "entity_mentions": ["scola di san lio evangelista"]
+  },
+  {
+    "entity": "SCUOLA DEL SANTISSIMO SACRAMENTO (di San Mois\u00e8)",
+    "entity_mentions": [
+      "per altra portion alla scuola del s. sacramento di s. moise"
+    ]
+  },
+  {
+    "entity": "SCUOLA DEL SANTISSIMO SACRAMENTO (di San Salvatore)",
+    "entity_mentions": ["scuola del santissimo sagramento di san salvatore"]
+  },
+  {
+    "entity": "SCUOLA DEL SANTISSIMO SACRAMENTO (di San Samuel)",
+    "entity_mentions": ["scola del santisismo sacramento in s. samuel"]
+  },
+  {
+    "entity": "SCUOLA DEL SOVVENGO DI SANT'ERMOLAO",
+    "entity_mentions": ["scola del sovengo di san ermolsao"]
+  },
+  {
+    "entity": "SCUOLA DELLA BEATA VERGINE DELLA CINTURA",
+    "entity_mentions": ["scola de centurati"]
+  },
+  {
+    "entity": "SCUOLA DELLA MADONNA DELL'ANCONETTA",
+    "entity_mentions": ["scola della madonna dell'anconetta"]
+  },
+  {
+    "entity": "SCUOLA DELLA SANTISSIMA ANNUNZIATA DEGLI ZOTTI",
+    "entity_mentions": [
+      "scola de zotti in sant'angelo",
+      "scola della santissima annonziata",
+      "scola della santissima annonziata de zotti",
+      "scola della santissima annonziata de zotti in s. angelo",
+      "scuola della santissima annonciata de zotti"
+    ]
+  },
+  {
+    "entity": "SCUOLA DI SAN BERNARDINO",
+    "entity_mentions": ["scola di san bernardin"]
+  },
+  {
+    "entity": "SCUOLA DI SAN NICOLO",
+    "entity_mentions": [
+      "scola di san nicol",
+      "scola di san nicolo",
+      "veneranda scola di san nicolo"
+    ]
+  },
+  {
+    "entity": "SCUOLA DI SANTA BARNABA",
+    "entity_mentions": [
+      "scola di santa barnaba",
+      "veneranda scola di santa barbara",
+      "veneranda scola di santa barnaba"
+    ]
+  },
+  {
+    "entity": "SCUOLA DI SANTA MARIA ZOBENIGO",
+    "entity_mentions": ["scola santa maria zobenigo"]
+  },
+  {
+    "entity": "SCUOLA SAN GIOVANNI BATTISTA",
+    "entity_mentions": [
+      "scola di san giovanni battista a san marcola",
+      "scola di san giovanni battista in san marcola",
+      "scuola san giovanni battista"
+    ]
+  }
+]

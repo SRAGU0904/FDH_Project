@@ -1,0 +1,1043 @@
+[
+  { "key": "abate", "value": "abbate" },
+  { "key": "abate piazza longa", "value": "abbate" },
+  { "key": "abbadessa", "value": "abatessa" },
+  {
+    "key": "abbadessa del santo sepolcro di questa citta",
+    "value": "abbadessa"
+  },
+  { "key": "abbate", "value": "abbate" },
+  { "key": "abbate don", "value": "abbate don" },
+  { "key": "abbate piazza longa", "value": "abbate" },
+  { "key": "altadonna", "value": "alta donna" },
+  { "key": "ammiraglio", "value": "ammiraglio" },
+  {
+    "key": "appaltatori del magistrato ecc. del sal",
+    "value": "magistrato eccellentissimo"
+  },
+  { "key": "archangela", "value": "archangela" },
+  { "key": "archangela terziaria", "value": "archangela" },
+  { "key": "arciprete", "value": "arciprete" },
+  { "key": "arcivescovo di spalato", "value": "arcivescovo" },
+  { "key": "cancelier grande", "value": "cancellier grande" },
+  { "key": "cancellier grande", "value": "cancellier grande" },
+  { "key": "canonici", "value": "canonici" },
+  { "key": "canonici di castello", "value": "canonici" },
+  { "key": "canonici di san marco", "value": "canonici" },
+  { "key": "canonici di san salvatore", "value": "canonici" },
+  { "key": "canonici regolari di s. antonio", "value": "canonici" },
+  { "key": "canonici regolari s. antonio", "value": "canonici" },
+  { "key": "canonici suddetti", "value": "canonici" },
+  { "key": "canonico", "value": "canonico" },
+  { "key": "cardinal", "value": "cardinale" },
+  { "key": "cardinale", "value": "cardinale" },
+  { "key": "carica de remeri dell'arsenal", "value": "remeri dell'arsenale" },
+  {
+    "key": "carica del proto de calafai dell'arsenal",
+    "value": "proto de calafai dell'arsenale"
+  },
+  {
+    "key": "carica del quadernier dell'arsenal",
+    "value": "quadernier dell'arsenale"
+  },
+  {
+    "key": "carica dell'armiraglio dell'arsenal",
+    "value": "ammiraglio dell'arsenale"
+  },
+  { "key": "carica di fante dell'arsenal", "value": "fante dell'arsenale" },
+  { "key": "carica di portonier dell'arsenal", "value": "portonier" },
+  {
+    "key": "carica di proto de calafai dell'arsenal",
+    "value": "proto de calafai dell'arsenale"
+  },
+  {
+    "key": "carica di proto de remeri dell'arsenal",
+    "value": "proto de remeri dell'arsenale"
+  },
+  {
+    "key": "carica di proto de tagieri dell'arsenal",
+    "value": "proto de tagieri dell'arsenale"
+  },
+  {
+    "key": "carica di seconda poliza de marangoni",
+    "value": "seconda poliza de marangoni"
+  },
+  {
+    "key": "casa del reverendissimo capitolo",
+    "value": "reverendissimo capitolo"
+  },
+  { "key": "cavalier", "value": "cavaliere" },
+  { "key": "cavaliere", "value": "cavaliere" },
+  { "key": "cavalieri", "value": "cavalieri" },
+  { "key": "cessionaria", "value": "cessionaria" },
+  { "key": "cessionario", "value": "cessionario" },
+  { "key": "cimador pubblico", "value": "cimador pubblico" },
+  { "key": "cimentador pubblico", "value": "cimentador pubblico" },
+  { "key": "clero", "value": "clero" },
+  { "key": "colonelli", "value": "colonnelli" },
+  { "key": "colonello", "value": "colonnello" },
+  { "key": "colonnello", "value": "colonnello" },
+  { "key": "comandador", "value": "commendatore" },
+  { "key": "comendador", "value": "commendatore" },
+  { "key": "comendator", "value": "commendatore" },
+  { "key": "comisaria", "value": "commissaria" },
+  { "key": "comisaria nobil homo", "value": "comissaria nobil homo" },
+  { "key": "comissaria", "value": "commissaria" },
+  { "key": "comissaria nobili homeni", "value": "nobil homini" },
+  { "key": "comissario", "value": "commissario" },
+  { "key": "commendator", "value": "commendatore" },
+  { "key": "commendatore", "value": "commendatore" },
+  { "key": "commisaria", "value": "commissaria" },
+  { "key": "commisario", "value": "commissario" },
+  { "key": "commisario di san rocco", "value": "commissario" },
+  { "key": "commissari", "value": "commissari" },
+  { "key": "commissari", "value": "commissari" },
+  { "key": "commissari il capitolo di caurle", "value": "capitolo" },
+  { "key": "commissaria", "value": "commissaria" },
+  { "key": "commissaria ser", "value": "commissaria ser" },
+  { "key": "commissario", "value": "commissario" },
+  { "key": "commissario nobil homo", "value": "commissario nobil homo" },
+  {
+    "key": "console della gran bretagna",
+    "value": "console della gran bretagna"
+  },
+  { "key": "conte", "value": "conte" },
+  { "key": "contessa", "value": "contessa" },
+  { "key": "conti", "value": "conti" },
+  { "key": "conversa", "value": "conversa" },
+  { "key": "diacono", "value": "diacono" },
+  { "key": "diacono di s. giovanni novo", "value": "diacono" },
+  { "key": "diacono di san geremia", "value": "diacono" },
+  { "key": "diacono di san vidal", "value": "diacono" },
+  { "key": "diacono di san vidal pro tempore", "value": "diacono" },
+  { "key": "diacono pro tempore", "value": "diacono" },
+  { "key": "diacono titolario san geremia", "value": "diacono" },
+  { "key": "diacono titolato", "value": "diacono" },
+  { "key": "diacono titolato di chiesa", "value": "diacono" },
+  { "key": "diacono titolato di chiesa di san felice", "value": "diacono" },
+  {
+    "key": "diacono titolato sotto la casa della sua residenza",
+    "value": "diacono"
+  },
+  { "key": "dificomissaria", "value": "dificomissaria" },
+  { "key": "doge", "value": "doge" },
+  { "key": "domina", "value": "domina" },
+  { "key": "domine", "value": "domine" },
+  { "key": "domini", "value": "domini" },
+  { "key": "dominno", "value": "domino" },
+  { "key": "domino", "value": "domino" },
+  { "key": "don", "value": "don" },
+  { "key": "donna", "value": "donna" },
+  { "key": "donne", "value": "donne" },
+  { "key": "eccellenstisismo", "value": "eccellentissimo" },
+  { "key": "eccellente", "value": "eccellente" },
+  { "key": "eccellente domino", "value": "eccellente domino" },
+  {
+    "key": "eccellente magistrato del sant'officio",
+    "value": "eccellente magistrato"
+  },
+  { "key": "eccellente signor", "value": "eccellente signor" },
+  { "key": "eccellentisismo", "value": "eccellentissimo" },
+  { "key": "eccellentissima", "value": "eccellentissima" },
+  {
+    "key": "eccellentissimi procuratori alle beccarie",
+    "value": "eccellentissimi procuratori"
+  },
+  {
+    "key": "eccellentissimi signori della notte",
+    "value": "signori della notte"
+  },
+  { "key": "eccellentissimi signori di notte", "value": "signori della notte" },
+  { "key": "eccellentissimo", "value": "eccellentissimo" },
+  {
+    "key": "eccellentissimo magistrato del sal",
+    "value": "magistrato eccellentissimo"
+  },
+  {
+    "key": "eccellentissimo magistrato della grassa",
+    "value": "magistrato eccellentissimo"
+  },
+  {
+    "key": "eccellentissimo magistrato della milizia da mar",
+    "value": "magistrato delle milizia da mar"
+  },
+  {
+    "key": "eccellentissimo magistrato delle milizia da mar",
+    "value": "magistrato delle milizia da mar"
+  },
+  {
+    "key": "eccellentissimo nobil homo ser",
+    "value": "eccellentissimo nobil homo ser"
+  },
+  { "key": "elettor", "value": "elettore" },
+  { "key": "elettor del colleggio emueleo di padova", "value": "elettore" },
+  { "key": "eminentissimo", "value": "eminentissimo" },
+  { "key": "eminentissimo cardinal", "value": "eminentissimo cardinale" },
+  { "key": "eminenza", "value": "eminenza" },
+  { "key": "eminenza cardinale", "value": "eminenza cardinale" },
+  { "key": "evangelista", "value": "evangelista" },
+  { "key": "evangelista capoferro", "value": "evangelista" },
+  { "key": "fante dell'arsenal", "value": "fante dell'arsenale" },
+  { "key": "fidecomissaria", "value": "fidecomissaria" },
+  { "key": "fidecommissari", "value": "fidecommissari" },
+  { "key": "fideicomesso", "value": "fidecommissario" },
+  { "key": "fidicomissaria", "value": "fidecomissaria" },
+  {
+    "key": "fratelli della compagnia di gesu",
+    "value": "fratelli della compagnia"
+  },
+  { "key": "fratina", "value": "fratina" },
+  { "key": "gentildonne", "value": "gentildonne" },
+  { "key": "gesuito", "value": "gesuita" },
+  { "key": "giesuito", "value": "gesuito" },
+  {
+    "key": "givernatori dell'ospedaletto di san giovanni e paulo",
+    "value": "governatori"
+  },
+  { "key": "governatore", "value": "governatore" },
+  { "key": "governatori", "value": "governatori" },
+  { "key": "governatori dell'entrade", "value": "governatori delle entrate" },
+  { "key": "hobil homo", "value": "nobil homo" },
+  { "key": "hobili homeni", "value": "nobil homini" },
+  { "key": "hobili homini", "value": "nobil homini" },
+  { "key": "homini", "value": "homini" },
+  { "key": "homini ser", "value": "homini ser" },
+  { "key": "hominio", "value": "domino" },
+  { "key": "homo", "value": "homo" },
+  { "key": "homo ser", "value": "homo ser" },
+  { "key": "huomini", "value": "homini" },
+  { "key": "huomo", "value": "homo" },
+  { "key": "il 3\u00b0 prete", "value": "prete" },
+  { "key": "il 3\u00b0 prete casa dal titolo", "value": "terzo prete" },
+  { "key": "illustrisismo", "value": "illustrissimo" },
+  { "key": "illustrissima", "value": "illustrissima" },
+  { "key": "illustrissima contessa", "value": "illustrissima contessa" },
+  { "key": "illustrissima domina", "value": "illustrissima domina" },
+  { "key": "illustrissima e reverenda", "value": "illustrissima e reverenda" },
+  {
+    "key": "illustrissima e reverenda donna",
+    "value": "illustrissima e reverenda donna"
+  },
+  { "key": "illustrissima signor", "value": "illustrissima signora" },
+  { "key": "illustrissima signora", "value": "illustrissima signora" },
+  { "key": "illustrissime", "value": "illustrissime" },
+  { "key": "illustrissime gentildonne", "value": "illustrissime gentildonne" },
+  {
+    "key": "illustrissime madri di sant'andrea",
+    "value": "illustrissime madri"
+  },
+  { "key": "illustrissime monache", "value": "illustrissime monache" },
+  {
+    "key": "illustrissime monache di sant'andrea",
+    "value": "illustrissime monache"
+  },
+  { "key": "illustrissimi", "value": "illustrissimi" },
+  { "key": "illustrissimi signori", "value": "illustrissimi signori" },
+  { "key": "illustrissimo", "value": "illustrissimo" },
+  { "key": "illustrissimo abate", "value": "illustrissimo abbate" },
+  { "key": "illustrissimo abbate", "value": "illustrissimo abbate" },
+  { "key": "illustrissimo domino", "value": "illustrissimo domino" },
+  { "key": "illustrissimo reverendo", "value": "illustrissimo reverendo" },
+  { "key": "illustrissimo ser", "value": "illustrissimo ser" },
+  { "key": "illustrissimo signor", "value": "illustrissimo signor" },
+  {
+    "key": "illustrissimo signor abbate",
+    "value": "illustrissimo signor abbate"
+  },
+  {
+    "key": "illustrissimo signor conte",
+    "value": "illustrissimo signor conte"
+  },
+  {
+    "key": "illustrissimo signor marchese",
+    "value": "illustrissimo signor marchese"
+  },
+  {
+    "key": "illustrissimo signore conte",
+    "value": "illustrissimo signore conte"
+  },
+  { "key": "illustrissimo signori", "value": "illustrissimi signori" },
+  {
+    "key": "illustrissimo signori conte",
+    "value": "illustrissimo signore conte"
+  },
+  { "key": "illustrissimo signro", "value": "illustrissimo signor" },
+  {
+    "key": "illustrissimo signro conte",
+    "value": "illustrissimo signor conte"
+  },
+  { "key": "illustrissimo singnor", "value": "illustrissimo signor" },
+  { "key": "ilustrissimo", "value": "illustrissimo" },
+  { "key": "ilustrissimo abbate", "value": "illustrissimo abbate" },
+  {
+    "key": "ilustrissimo e reverendissimo",
+    "value": "illustrissimo e reverendissimo"
+  },
+  { "key": "le terziarie all'angelo raffael", "value": "terziarie" },
+  { "key": "li canonici di san salvador uso proprio", "value": "canonici" },
+  {
+    "key": "madonna santa donna delle monache",
+    "value": "madonna santa donna delle monache"
+  },
+  { "key": "madri di santa maria dei miracoli", "value": "madri" },
+  {
+    "key": "madri terizarie di san domenico in nostra contrada",
+    "value": "madri terizarie"
+  },
+  { "key": "magistrato del sal", "value": "magistrato" },
+  {
+    "key": "magistrato dell'artiglieria",
+    "value": "magistrato dell'artiglieria"
+  },
+  {
+    "key": "magistrato della milizia",
+    "value": "magistrato delle milizia da mar"
+  },
+  {
+    "key": "magistrato eccellenstisismo delle biave",
+    "value": "magistrato eccellentissimo"
+  },
+  {
+    "key": "magistrato eccellentisismo de proveditori",
+    "value": "magistrato eccellentissimo"
+  },
+  {
+    "key": "magistrato eccellentisismo del sal",
+    "value": "magistrato eccellentissimo"
+  },
+  {
+    "key": "magistrato eccellentissimo de governatori dell'entrate",
+    "value": "magistrato eccellentissimo"
+  },
+  {
+    "key": "magistrato eccellentissimo del riscato de schiavi",
+    "value": "magistrato eccellentissimo"
+  },
+  {
+    "key": "magistrato eccellentissimo del sal",
+    "value": "magistrato eccellentissimo"
+  },
+  {
+    "key": "magistrato eccellentissimo delle rason vechie",
+    "value": "magistrato eccellentissimo"
+  },
+  {
+    "key": "magnistatro eccellentissimo de proveditori di commun",
+    "value": "magistrato eccellentissimo"
+  },
+  { "key": "marchesa", "value": "marchesa" },
+  { "key": "marchese", "value": "marchese" },
+  { "key": "maria archangela terziaria alli carmini", "value": "archangela" },
+  { "key": "medico mascolo san vio", "value": "medico" },
+  { "key": "messer", "value": "messer" },
+  { "key": "ministro di giustizia", "value": "ministro di giustizia" },
+  {
+    "key": "ministro di giustizia trovasi in prigione",
+    "value": "ministro di giustizia"
+  },
+  { "key": "ministro giustizia", "value": "ministro di giustizia" },
+  { "key": "misser", "value": "messer" },
+  { "key": "moanche di sant'alvise", "value": "monache" },
+  { "key": "molina san giacomo di muran", "value": "molina" },
+  { "key": "monaca", "value": "monaca" },
+  { "key": "monaca", "value": "monaca" },
+  { "key": "monaca a s. iseppo di venetia", "value": "monaca" },
+  { "key": "monaca a san cosma", "value": "monaca" },
+  { "key": "monaca a san iseppo", "value": "monaca" },
+  { "key": "monaca a treviso", "value": "monaca" },
+  { "key": "monaca alla croce grande", "value": "monaca" },
+  { "key": "monaca alle convertite", "value": "monaca" },
+  { "key": "monaca alle vergini", "value": "monaca" },
+  { "key": "monaca di s. antonio di torcello", "value": "monaca" },
+  { "key": "monaca in malamocco", "value": "monaca" },
+  { "key": "monaca in san comso", "value": "monaca" },
+  { "key": "monaca in san giuseppe", "value": "monaca" },
+  { "key": "monaca professa", "value": "monaca" },
+  { "key": "monaca s. iseppo", "value": "monaca" },
+  { "key": "monaca san giuseppe", "value": "monaca" },
+  { "key": "monaca san iseppo", "value": "monaca" },
+  { "key": "monacha", "value": "monaca" },
+  { "key": "monacha al sepolcro", "value": "monaca" },
+  { "key": "monacha all'umilta", "value": "monaca" },
+  { "key": "monacha alla celestia", "value": "monaca" },
+  { "key": "monacha alle vergini", "value": "monaca" },
+  { "key": "monacha di san lorenzo", "value": "monaca" },
+  { "key": "monacha in san cosmo della giudecca", "value": "monaca" },
+  { "key": "monacha in san rocco e santa margarita", "value": "monaca" },
+  { "key": "monache", "value": "monache" },
+  { "key": "monache corpus domini", "value": "monache" },
+  { "key": "monache d'ogni santi", "value": "monache" },
+  { "key": "monache d'ogni santi di questa citta", "value": "monache" },
+  { "key": "monache de santi rocco e margerita", "value": "monache" },
+  { "key": "monache dei miracoli", "value": "monache" },
+  { "key": "monache del corpus domini", "value": "monache" },
+  { "key": "monache del corpusa domini", "value": "monache" },
+  { "key": "monache del santissimo nome di giesu e maria", "value": "monache" },
+  { "key": "monache del sepolcro", "value": "monache" },
+  { "key": "monache della celestia", "value": "monache" },
+  { "key": "monache della clestia", "value": "monache" },
+  { "key": "monache della croce della zuecca", "value": "monache" },
+  { "key": "monache della valverde", "value": "monache" },
+  { "key": "monache delle vergini", "value": "monache" },
+  { "key": "monache dello spirito santo", "value": "monache" },
+  { "key": "monache di s. andrea", "value": "monache" },
+  { "key": "monache di s. anna", "value": "monache" },
+  { "key": "monache di s. chiara", "value": "monache" },
+  { "key": "monache di san andrea", "value": "monache" },
+  { "key": "monache di san cosmo", "value": "monache" },
+  { "key": "monache di san danielo", "value": "monache" },
+  { "key": "monache di san gerolamo", "value": "monache" },
+  { "key": "monache di san girolamo", "value": "monache" },
+  { "key": "monache di san lorenzo", "value": "monache" },
+  { "key": "monache di san marcuol", "value": "monache" },
+  { "key": "monache di san zuanne di torcello", "value": "monache" },
+  { "key": "monache di san'alvise", "value": "monache" },
+  { "key": "monache di san'anna", "value": "monache" },
+  { "key": "monache di sant'alvise", "value": "monache" },
+  { "key": "monache di sant'andrea", "value": "monache" },
+  { "key": "monache di sant'anna", "value": "monache" },
+  { "key": "monache di santa catterina", "value": "monache" },
+  { "key": "monache di santa chiara", "value": "monache" },
+  { "key": "monache di santa chiara di venezia", "value": "monache" },
+  { "key": "monache di santa giustina", "value": "monache" },
+  { "key": "monache di santa lucia", "value": "monache" },
+  { "key": "monache domine", "value": "monache domine" },
+  { "key": "monache san iseppo", "value": "monache" },
+  { "key": "monache santa giustina", "value": "monache" },
+  { "key": "monaci sant'antonio castello", "value": "monaci" },
+  { "key": "monaco", "value": "monaco" },
+  { "key": "monche delle vergini", "value": "monache" },
+  { "key": "monica", "value": "monaca" },
+  { "key": "moniche di san lorenzo", "value": "monache" },
+  { "key": "moniche di san maffio di mazorbo", "value": "monache" },
+  { "key": "moniche di sant'anna", "value": "monache" },
+  { "key": "moniche di santa chiara", "value": "monache" },
+  { "key": "monsignor", "value": "monsignor" },
+  {
+    "key": "monsignor ilustrissimo e reverendissimo",
+    "value": "monsignor illustrissimo e reverendissimo"
+  },
+  { "key": "nobeli homeni", "value": "nobil homini" },
+  { "key": "nobeli homeni ser", "value": "nobil homini ser" },
+  { "key": "nobi domina", "value": "nobil domina" },
+  { "key": "nobi homo", "value": "nobil homo" },
+  { "key": "nobil", "value": "nobil" },
+  { "key": "nobil domina", "value": "nobil domina" },
+  { "key": "nobil domina magna", "value": "nobil donna" },
+  { "key": "nobil domina marchese", "value": "nobil domina marchese" },
+  { "key": "nobil domine", "value": "nobil domine" },
+  { "key": "nobil domino", "value": "nobil domino" },
+  { "key": "nobil donna", "value": "nobil donna" },
+  { "key": "nobil donna di san vio", "value": "nobil donna" },
+  { "key": "nobil donna suor", "value": "nobil donna suor" },
+  { "key": "nobil hmo ser", "value": "nobil homo ser" },
+  { "key": "nobil homina", "value": "nobil domina" },
+  { "key": "nobil homini", "value": "nobil homini" },
+  { "key": "nobil homini conti", "value": "nobil homini conti" },
+  { "key": "nobil homini di san vio", "value": "nobil homini" },
+  { "key": "nobil homini ser", "value": "nobil homini ser" },
+  { "key": "nobil homino", "value": "nobil domino" },
+  { "key": "nobil homino ser", "value": "nobil domino ser" },
+  { "key": "nobil homo", "value": "nobil homo" },
+  { "key": "nobil homo misser", "value": "nobil homo messer" },
+  { "key": "nobil homo morto", "value": "nobil homo" },
+  { "key": "nobil homo ser", "value": "nobil homo ser" },
+  { "key": "nobil homo ser abbate", "value": "nobil homo ser abbate" },
+  { "key": "nobil homo ser conte", "value": "nobil homo ser conte" },
+  { "key": "nobil homoni", "value": "nobil homini" },
+  { "key": "nobil honna", "value": "nobil donna" },
+  { "key": "nobil huomo", "value": "nobil homo" },
+  { "key": "nobil jomo", "value": "nobil homo" },
+  { "key": "nobil ser", "value": "nobil ser" },
+  { "key": "nobildonna", "value": "nobil donna" },
+  { "key": "nobile", "value": "nobil" },
+  { "key": "nobile domina", "value": "nobil domina" },
+  { "key": "nobili", "value": "nobili" },
+  { "key": "nobili domina", "value": "nobil domine" },
+  { "key": "nobili domine", "value": "nobil domine" },
+  { "key": "nobili gomeni", "value": "nobil homini" },
+  { "key": "nobili homeni", "value": "nobil homini" },
+  { "key": "nobili homeni conte", "value": "nobil homini conti" },
+  { "key": "nobili homeni ser", "value": "nobil homini ser" },
+  { "key": "nobili homeni sier", "value": "nobil homini ser" },
+  { "key": "nobili homin", "value": "nobil homini" },
+  { "key": "nobili homini", "value": "nobil homini" },
+  { "key": "nobili homini conte", "value": "nobil homini conti" },
+  { "key": "nobili homini ser", "value": "nobil homini ser" },
+  { "key": "nobili homo ser", "value": "nobil homo ser" },
+  { "key": "nobili patrizi", "value": "nobili patrizi" },
+  { "key": "nobill homo", "value": "nobil homo" },
+  { "key": "nobill homo ser", "value": "nobil homo ser" },
+  { "key": "nobini homini", "value": "nobil homini" },
+  { "key": "nobini homini ser", "value": "nobil homini ser" },
+  { "key": "nobio homo", "value": "nobil homo" },
+  { "key": "nobl homo", "value": "nobil homo" },
+  { "key": "nobl homo ser", "value": "nobil homo ser" },
+  { "key": "nobli homeni", "value": "nobil homini" },
+  { "key": "nobli homeni", "value": "nobil homini" },
+  { "key": "nogil homo", "value": "nobil homo" },
+  { "key": "nonil homo", "value": "nobil homo" },
+  { "key": "nonil homo ser", "value": "nobil homo ser" },
+  { "key": "nopbil", "value": "nobil" },
+  { "key": "nopbil homo", "value": "nobil homo" },
+  { "key": "padre don", "value": "padre don" },
+  { "key": "padre vecceli della salute", "value": "padre della salute" },
+  { "key": "padri della certosa", "value": "padri" },
+  { "key": "padri della certosa di venezia", "value": "padri" },
+  { "key": "padri di san cristoforo da murano", "value": "padri" },
+  { "key": "padri di san francesco alla vigna", "value": "padri" },
+  { "key": "padri di san giovanni e paulo", "value": "padri" },
+  { "key": "padri di san nicolo del lido", "value": "padri" },
+  { "key": "padri di san sebastiano", "value": "padri" },
+  { "key": "padri di san secondo", "value": "padri" },
+  { "key": "padri gesuiti", "value": "padri gesuiti" },
+  { "key": "papa", "value": "papa" },
+  { "key": "parroco", "value": "parroco" },
+  {
+    "key": "parte di ragion della pieve e parte di residenza del secondo prete",
+    "value": "region della pieve e secondo prete"
+  },
+  { "key": "patriarca", "value": "patriarca" },
+  { "key": "patriarca di venezia", "value": "patriarca di venezia" },
+  { "key": "patriarcha", "value": "patriarca" },
+  { "key": "patriarcha di venezia", "value": "patriarca di venezia" },
+  { "key": "penitenti", "value": "penitenti" },
+  { "key": "pievan", "value": "pievano" },
+  { "key": "pievan della chiesa", "value": "pievano" },
+  { "key": "pievan di s. fantin", "value": "pievano" },
+  { "key": "pievan di s. fantin pro tempore", "value": "pievano" },
+  { "key": "pievan di san cancian", "value": "pievano" },
+  { "key": "pievan di san gimignan", "value": "pievano" },
+  { "key": "pievano", "value": "pievano" },
+  { "key": "pievano di chiesa", "value": "pievano" },
+  { "key": "pievano di residenza", "value": "pievano" },
+  { "key": "pievano di san bortolamio di treviso", "value": "pievano" },
+  { "key": "pievano di san nicolo", "value": "pievano" },
+  { "key": "pievano di san simeon apostolo", "value": "pievano" },
+  {
+    "key": "pievano di san simeon apostolo come procurator di capitolo",
+    "value": "pievano"
+  },
+  { "key": "pievano di santa marina", "value": "pievano" },
+  { "key": "pieve di san geminiano", "value": "pieve" },
+  { "key": "piovan", "value": "pievano" },
+  { "key": "piovan di contrada", "value": "pievano" },
+  { "key": "piovan di s. samuel", "value": "pievano" },
+  { "key": "piovan di san cancian", "value": "pievano" },
+  { "key": "piovan di san marcilian", "value": "pievano" },
+  { "key": "piovan di santa margherita", "value": "pievano" },
+  { "key": "piovan di santa marina", "value": "pievano" },
+  { "key": "piovan pro tempore di san benetto", "value": "pievano" },
+  { "key": "piovano", "value": "pievano" },
+  { "key": "piovano di s. samuel", "value": "pievano" },
+  { "key": "piovano di san cancian", "value": "pievano" },
+  { "key": "piovano di san giacomo di rialto", "value": "pievano" },
+  {
+    "key": "piovano e capitolo di san pantalon",
+    "value": "pievano e capitolo"
+  },
+  { "key": "piovano san simon piccolo", "value": "pievano" },
+  { "key": "pre iseppo ca preto diacono titolato", "value": "diacono" },
+  { "key": "prencipe", "value": "principe" },
+  { "key": "prete", "value": "prete" },
+  { "key": "prete della chiesa", "value": "prete" },
+  { "key": "prete di san nicolo", "value": "prete" },
+  { "key": "prima residenza del capelan di san rocco", "value": "capelan" },
+  { "key": "primo piovano di san geminiano", "value": "primo pievano" },
+  { "key": "primo prete", "value": "primo prete" },
+  { "key": "primo prete della chiesa", "value": "primo prete" },
+  { "key": "primo prete delle chiesa di san vidal", "value": "primo prete" },
+  { "key": "primo prete di s. maria zobenigo", "value": "primo prete" },
+  { "key": "primo prete di san marcilian", "value": "primo prete" },
+  { "key": "primo prete di san silvestro", "value": "primo prete" },
+  { "key": "primo prete di santa marina", "value": "primo prete" },
+  { "key": "primo prete e diacono", "value": "primo prete e diacono" },
+  { "key": "primo prete in san fantin", "value": "primo prete" },
+  { "key": "primo prete titolare", "value": "primo prete" },
+  {
+    "key": "primo prete titolato di s. maria zobenigo",
+    "value": "primo prete"
+  },
+  { "key": "primo prete titolato di s. samuel", "value": "primo prete" },
+  { "key": "primo prette", "value": "primo prete" },
+  { "key": "primo prette di san felice", "value": "primo prete" },
+  { "key": "primo titolato di san geremia", "value": "primo titolato" },
+  { "key": "primo vicario", "value": "primo vicario" },
+  { "key": "principe", "value": "principe" },
+  { "key": "principe regnante", "value": "principe" },
+  { "key": "procuratessa", "value": "procuratrice" },
+  { "key": "procurator", "value": "procuratore" },
+  { "key": "procurator cavalier", "value": "procuratore cavaliere" },
+  {
+    "key": "procurator del capitolo e chiesa di san nicolo",
+    "value": "procuratore"
+  },
+  {
+    "key": "procurator delli reverendi padri di san giacomo della giudecca",
+    "value": "procuratore"
+  },
+  { "key": "procurator di capitolo", "value": "procuratore" },
+  {
+    "key": "procurator di capitolo della chiesa di san nicolo",
+    "value": "procuratore"
+  },
+  {
+    "key": "procurator di capitolo e fabrica della chiesa di san nicolo",
+    "value": "procuratore"
+  },
+  { "key": "procurator di san marco", "value": "procuratore di san marco" },
+  { "key": "procuratore", "value": "procuratore" },
+  { "key": "procuratore di san marco", "value": "procuratore di san marco" },
+  { "key": "procuratore pro tempore", "value": "procuratore" },
+  { "key": "procuratoressa", "value": "procuratrice" },
+  {
+    "key": "procuratori della fabrica e capitolo di santa maria formosa",
+    "value": "procuratori"
+  },
+  { "key": "procuratori di san zorzi maggior", "value": "procuratori" },
+  { "key": "procuratrice", "value": "procuratrice" },
+  { "key": "proveditori di commun", "value": "provveditori di comune" },
+  { "key": "provveditor", "value": "provveditore" },
+  { "key": "provveditor di comun", "value": "provveditore di comune" },
+  { "key": "quarto prete in san bartolomio", "value": "quarto prete" },
+  { "key": "rappresentante", "value": "rappresentante" },
+  { "key": "rapresentanti", "value": "rappresentanti" },
+  { "key": "rapresentanti", "value": "rappresentanti" },
+  { "key": "raverendi padri de frari", "value": "reverendi padri" },
+  { "key": "reberende monache di s. cosmo", "value": "reverende monache" },
+  { "key": "reberendo", "value": "reverendo" },
+  { "key": "religiosa professa", "value": "religiosa professa" },
+  { "key": "religioso", "value": "religioso" },
+  { "key": "religioso che abita a san lio", "value": "religioso" },
+  { "key": "residenza del capitan grande", "value": "capitan grande" },
+  { "key": "residenza del diacono titolato", "value": "diacono" },
+  { "key": "residenza del pievano", "value": "pievano" },
+  { "key": "residenza del primo prete", "value": "primo prete" },
+  { "key": "residenza del primo prete di santa sofia", "value": "primo prete" },
+  {
+    "key": "residenza del secondo piovano di santa sofia",
+    "value": "secondo pievano"
+  },
+  { "key": "residenza del secondo prete", "value": "secondo prete" },
+  {
+    "key": "residenza del secondo prete di santa sofia",
+    "value": "secondo prete"
+  },
+  { "key": "residenza della pieve", "value": "residenza della pieve" },
+  { "key": "residenza di primo titolato", "value": "primo titolato" },
+  { "key": "residenza diacono", "value": "diacono" },
+  { "key": "rev. piovan di san vidal", "value": "reverendo pievano" },
+  { "key": "revende monache di santa giustina", "value": "reverende monache" },
+  { "key": "reverenda", "value": "reverenda" },
+  { "key": "reverenda abadessa del sepolcro", "value": "reverenda abbadessa" },
+  { "key": "reverenda madre", "value": "reverenda madre" },
+  {
+    "key": "reverenda madre abbadessa di san giovanni laterano",
+    "value": "reverenda madre abbadessa"
+  },
+  { "key": "reverende", "value": "reverende" },
+  { "key": "reverende", "value": "reverende" },
+  { "key": "reverende cappucine", "value": "reverende cappucine" },
+  {
+    "key": "reverende madri terziarie di san domenico",
+    "value": "reverende madri terziarie"
+  },
+  { "key": "reverende monache", "value": "reverende monache" },
+  { "key": "reverende monache", "value": "reverende monache" },
+  {
+    "key": "reverende monache brau santa chiara di muran",
+    "value": "reverende monache"
+  },
+  {
+    "key": "reverende monache degl'angeli di murano",
+    "value": "reverende monache"
+  },
+  {
+    "key": "reverende monache del corpus domini",
+    "value": "reverende monache"
+  },
+  { "key": "reverende monache della celestia", "value": "reverende monache" },
+  { "key": "reverende monache di s. andrea", "value": "reverende monache" },
+  { "key": "reverende monache di s. cosmo", "value": "reverende monache" },
+  { "key": "reverende monache di s. gerolamo", "value": "reverende monache" },
+  { "key": "reverende monache di s. gerolemo", "value": "reverende monache" },
+  { "key": "reverende monache di s. lorenzo", "value": "reverende monache" },
+  { "key": "reverende monache di san alvise", "value": "reverende monache" },
+  { "key": "reverende monache di san girolamo", "value": "reverende monache" },
+  { "key": "reverende monache di san lorenzo", "value": "reverende monache" },
+  { "key": "reverende monache di san zacharia", "value": "reverende monache" },
+  { "key": "reverende monache di sant'alvise", "value": "reverende monache" },
+  {
+    "key": "reverende monache di santa catterina",
+    "value": "reverende monache"
+  },
+  { "key": "reverende monache di santa chiara", "value": "reverende monache" },
+  {
+    "key": "reverende monache di santa croce della zuecha",
+    "value": "reverende monache"
+  },
+  {
+    "key": "reverende monache di santa croce di venetia",
+    "value": "reverende monache"
+  },
+  {
+    "key": "reverende monache di santa giustina",
+    "value": "reverende monache"
+  },
+  {
+    "key": "reverende monache di santa giustina di venezia",
+    "value": "reverende monache"
+  },
+  {
+    "key": "reverende monache di santa maria maggior",
+    "value": "reverende monache"
+  },
+  { "key": "reverende monache di santa marta", "value": "reverende monache" },
+  { "key": "reverende monache di vicenza", "value": "reverende monache" },
+  { "key": "reverende monache san alvise", "value": "reverende monache" },
+  { "key": "reverende monache santa chiara", "value": "reverende monache" },
+  {
+    "key": "reverende monache santa chiara di venetia",
+    "value": "reverende monache"
+  },
+  {
+    "key": "reverende monache santa chiara venetia",
+    "value": "reverende monache"
+  },
+  {
+    "key": "reverende monache terciarie di san martin",
+    "value": "reverende monache"
+  },
+  { "key": "reverende monache tisana", "value": "reverende monache" },
+  {
+    "key": "reverende moniche di san giacomo de muran",
+    "value": "reverende monache"
+  },
+  {
+    "key": "reverende moniche di san giovanni laterano di venezia",
+    "value": "reverende monache"
+  },
+  {
+    "key": "reverende moniche di santa cattarina di venezia",
+    "value": "reverende monache"
+  },
+  {
+    "key": "reverende tertiarie di san francesco",
+    "value": "reverende terziarie"
+  },
+  { "key": "reverendi", "value": "reverendi" },
+  {
+    "key": "reverendi capitolari di san benedetto",
+    "value": "reverendi capitolari"
+  },
+  {
+    "key": "reverendi capitolari di san benetto",
+    "value": "reverendi capitolari"
+  },
+  { "key": "reverendi di s. pietro martire di murano", "value": "reverendi" },
+  { "key": "reverendi don", "value": "reverendi don" },
+  { "key": "reverendi padre de frari", "value": "reverendi padri" },
+  { "key": "reverendi padri", "value": "reverendi padri" },
+  {
+    "key": "reverendi padri agostiniani di santo steffano",
+    "value": "reverendi padri"
+  },
+  { "key": "reverendi padri de frari", "value": "reverendi padri" },
+  { "key": "reverendi padri de servi", "value": "reverendi padri" },
+  { "key": "reverendi padri dei frari", "value": "reverendi padri" },
+  { "key": "reverendi padri dei servi", "value": "reverendi padri" },
+  { "key": "reverendi padri della carita", "value": "reverendi padri" },
+  { "key": "reverendi padri della certosa", "value": "reverendi padri" },
+  {
+    "key": "reverendi padri della madonna dall'orto",
+    "value": "reverendi padri"
+  },
+  {
+    "key": "reverendi padri di s. pietro martire di murano",
+    "value": "reverendi padri"
+  },
+  { "key": "reverendi padri di s. steffano", "value": "reverendi padri" },
+  {
+    "key": "reverendi padri di san franceco di paola",
+    "value": "reverendi padri"
+  },
+  {
+    "key": "reverendi padri di san francesco di paola",
+    "value": "reverendi padri"
+  },
+  { "key": "reverendi padri di san giobbe", "value": "reverendi padri" },
+  {
+    "key": "reverendi padri di san giorgio maggiore",
+    "value": "reverendi padri"
+  },
+  {
+    "key": "reverendi padri di san giovanni e paolo",
+    "value": "reverendi padri"
+  },
+  { "key": "reverendi padri di san sebastian", "value": "reverendi padri" },
+  { "key": "reverendi padri di san sebastiano", "value": "reverendi padri" },
+  { "key": "reverendi padri di san secondo", "value": "reverendi padri" },
+  {
+    "key": "reverendi padri di santi giovanni e paolo",
+    "value": "reverendi padri"
+  },
+  { "key": "reverendi padri di santo stefano", "value": "reverendi padri" },
+  {
+    "key": "reverendi padri domenicani di santi giovanni e paolo",
+    "value": "reverendi padri"
+  },
+  { "key": "reverendi padri gesouiti", "value": "reverendi padri" },
+  { "key": "reverendi padri nicoletto", "value": "reverendi padri" },
+  { "key": "reverendi padri zertosini", "value": "reverendi padri" },
+  {
+    "key": "reverendi preti di chiesa di san trovaso",
+    "value": "reverendi preti"
+  },
+  { "key": "reverendi signori", "value": "reverendi signori" },
+  {
+    "key": "reverendissime monache del giesumaria",
+    "value": "reverendissime monache"
+  },
+  {
+    "key": "reverendissime monache domine maria vittoria",
+    "value": "reverendissime monache"
+  },
+  { "key": "reverendissimo", "value": "reverendissimo" },
+  {
+    "key": "reverendissimo archidiachono",
+    "value": "reverendissimo arcidiacono"
+  },
+  {
+    "key": "reverendissimo archidiacono",
+    "value": "reverendissimo arcidiacono"
+  },
+  { "key": "reverendissimo arciprete", "value": "reverendissimo arciprete" },
+  { "key": "reverendissimo canonico", "value": "reverendissimo canonico" },
+  {
+    "key": "reverendissimo canonico corta da este",
+    "value": "reverendissimo canonico"
+  },
+  { "key": "reverendissimo domino", "value": "reverendissimo domino" },
+  {
+    "key": "reverendissimo pievan della maddalena",
+    "value": "reverendissimo pievano"
+  },
+  { "key": "reverendissimo pievano", "value": "reverendissimo pievano" },
+  { "key": "reverendissimo piovano", "value": "reverendissimo pievano" },
+  {
+    "key": "reverendissimo piovano san biaso",
+    "value": "reverendissimo pievano"
+  },
+  {
+    "key": "reverendissimo pontelo piovani di san canciano",
+    "value": "pievano"
+  },
+  { "key": "reverendissimo signor", "value": "reverendissimo signor" },
+  {
+    "key": "reverendissimo signor domino",
+    "value": "reverendissimo signor domino"
+  },
+  { "key": "reverendissimo signor pievan", "value": "reverendissimo pievano" },
+  { "key": "reverendissimo signor pievano", "value": "reverendissimo pievano" },
+  { "key": "reverendissmo", "value": "reverendissimo" },
+  {
+    "key": "reverendissmo piovano di san biasio",
+    "value": "reverendissimo pievano"
+  },
+  { "key": "reverendo", "value": "reverendo" },
+  { "key": "reverendo di san giminiano", "value": "reverendo" },
+  {
+    "key": "reverendo diacono titolato in san nicolo",
+    "value": "reverendo diacono"
+  },
+  { "key": "reverendo domino", "value": "reverendo domino" },
+  { "key": "reverendo don", "value": "reverendo don" },
+  {
+    "key": "reverendo madri terziarie di san domenico in contra di san martino",
+    "value": "reverende madri terziarie"
+  },
+  {
+    "key": "reverendo monache di s. antonio di torcello",
+    "value": "reverende monache"
+  },
+  { "key": "reverendo pievan", "value": "reverendo pievano" },
+  { "key": "reverendo pievan di san vio", "value": "reverendo pievano" },
+  { "key": "reverendo piovan", "value": "reverendo pievano" },
+  { "key": "reverendo piovan di san samuel", "value": "reverendo pievano" },
+  { "key": "reverendo pre bambarle teatino", "value": "reverendo" },
+  { "key": "reverendo prete", "value": "reverendo prete" },
+  { "key": "reverendo prete di san vitale", "value": "reverendo prete" },
+  {
+    "key": "reverendo primo prete di nostra chiesa",
+    "value": "reverendo primo prete"
+  },
+  {
+    "key": "reverendo primo prete pro tempore",
+    "value": "reverendo primo prete"
+  },
+  { "key": "reverendo secondo prete pro tempore", "value": "secondo prete" },
+  { "key": "reverendo ser", "value": "reverendo ser" },
+  { "key": "reverendo ser pre de san marcola", "value": "reverendo ser" },
+  { "key": "reverendo signor", "value": "reverendo signor" },
+  { "key": "reverendo signor don", "value": "reverendo signor don" },
+  { "key": "reverendo signor pievano", "value": "reverendo signor pievano" },
+  {
+    "key": "reverendo signor pievano di san maurizio",
+    "value": "reverendo pievano"
+  },
+  {
+    "key": "reverendo signor pievano pro tempore",
+    "value": "reverendo pievano"
+  },
+  { "key": "reverendo signor piovan", "value": "reverendo signor pievano" },
+  {
+    "key": "reverendo signor piovan di san biasio",
+    "value": "reverendo pievano"
+  },
+  { "key": "reverendo signro", "value": "reverendo signor" },
+  { "key": "reverendo signro domino", "value": "reverendo signor domino" },
+  { "key": "sacerdote", "value": "sacerdote" },
+  { "key": "sagrestan", "value": "sagrestano" },
+  { "key": "sagrestan in san marcola", "value": "sagrestano" },
+  { "key": "sagrestano", "value": "sagrestano" },
+  { "key": "sagrestano di chiesa", "value": "sagrestano" },
+  { "key": "sagrestano di chiesa titolato", "value": "sagrestano" },
+  { "key": "san giovanni evangelista", "value": "san giovanni evangelista" },
+  { "key": "sargente maggior", "value": "sergente maggiore" },
+  { "key": "seccellenza", "value": "eccellenza" },
+  { "key": "seconda del nonzolo di san rocco", "value": "nonzolo" },
+  { "key": "secondo prete", "value": "secondo prete" },
+  {
+    "key": "secondo prete della chiesa di san vidal",
+    "value": "secondo prete"
+  },
+  { "key": "secondo prete di chiesa di s. fantin", "value": "prete" },
+  { "key": "secondo prete di san giminiano", "value": "secondo prete" },
+  { "key": "secondo prete di san nicolo", "value": "secondo prete" },
+  { "key": "secondo prete di san silvestro", "value": "secondo prete" },
+  { "key": "secondo prete di santa marina", "value": "secondo prete" },
+  { "key": "secondo prete san nicolo", "value": "secondo prete" },
+  { "key": "secondo prete titolato della chiesa", "value": "secondo prete" },
+  {
+    "key": "secondo prete titolato di chiesa di san felice",
+    "value": "secondo prete"
+  },
+  {
+    "key": "secondo prete titolato di s. maria zobenigo",
+    "value": "secondo prete"
+  },
+  { "key": "secondo prete titolato di s. samule", "value": "secondo prete" },
+  { "key": "secondo titolato don", "value": "secondo titolato don" },
+  { "key": "secretari", "value": "segretari" },
+  { "key": "secretario", "value": "segretario" },
+  { "key": "secrettario", "value": "segretario" },
+  { "key": "sei sotto canonici", "value": "canonici" },
+  { "key": "ser", "value": "ser" },
+  { "key": "serenissimo", "value": "serenissimo" },
+  { "key": "serenissimo doge", "value": "serenissimo doge" },
+  { "key": "serenissimo domino", "value": "serenissimo domino" },
+  { "key": "serenissimo domino domino", "value": "serenissimo domino" },
+  { "key": "serenissimo messer", "value": "serenissimo messer" },
+  { "key": "serenissmo", "value": "serenissimo" },
+  { "key": "serenissmo doge", "value": "serenissimo doge" },
+  { "key": "sess.\u00b0", "value": "sessionario" },
+  { "key": "sess.\u00b0 piovan", "value": "sessionario pievano" },
+  { "key": "sessionario", "value": "sessionario" },
+  { "key": "sessionario pievano", "value": "sessionario pievano" },
+  { "key": "sessonaria", "value": "sessionaria" },
+  { "key": "sessonario", "value": "sessionario" },
+  { "key": "sier", "value": "ser" },
+  { "key": "signor", "value": "signor" },
+  { "key": "signor abbate", "value": "signor abbate" },
+  { "key": "signor abbate don", "value": "signor abbate don" },
+  { "key": "signor conte", "value": "signor conte" },
+  { "key": "signor da udine", "value": "signor" },
+  { "key": "signor domino", "value": "signor domino" },
+  { "key": "signor dottor", "value": "signor dottor" },
+  { "key": "signor pievan", "value": "signor pievano" },
+  { "key": "signor pievan di san gimignan", "value": "pievano" },
+  { "key": "signor pievan di san giminian", "value": "pievano" },
+  { "key": "signora", "value": "signora" },
+  { "key": "signora contessa", "value": "signora contessa" },
+  { "key": "signori", "value": "signori" },
+  { "key": "signori canonici di san salvatore", "value": "canonici" },
+  { "key": "signori di notte", "value": "signori della notte" },
+  { "key": "signro domino", "value": "signor domino" },
+  { "key": "singor", "value": "signor" },
+  { "key": "singor pievan di san gimignan", "value": "pievano" },
+  { "key": "sollecitador", "value": "sollectitatore" },
+  {
+    "key": "soprintendente il magistrato dell'armar",
+    "value": "magistrato dell'armar"
+  },
+  { "key": "suddiacono", "value": "suddiacono" },
+  { "key": "suddiacono di chiesa", "value": "suddiacono" },
+  { "key": "suddiacono titolato", "value": "suddiacono" },
+  {
+    "key": "suddiacono titolato della chiesa di san barnaba",
+    "value": "suddiacono"
+  },
+  {
+    "key": "suddiacono titolato di san simeon apostolo e procurator di capitolo",
+    "value": "suddiacono"
+  },
+  { "key": "sudiacono", "value": "suddiacono" },
+  { "key": "suor", "value": "suora" },
+  { "key": "suor candida margarita monaca in santa marta", "value": "monaca" },
+  { "key": "suor nicolosa in monastero di s. anna", "value": "suora" },
+  { "key": "suora", "value": "suora" },
+  { "key": "suora di san barnaba", "value": "suora" },
+  { "key": "tenente", "value": "tenente" },
+  { "key": "terciarie san martino", "value": "terziarie" },
+  { "key": "tericiarie san martino", "value": "terziarie" },
+  { "key": "terzarie", "value": "terziarie" },
+  { "key": "terziare di san raffael", "value": "terziarie" },
+  { "key": "terziaria", "value": "terziaria" },
+  { "key": "terziarie carmelitane", "value": "terziarie" },
+  { "key": "terziarie di san raffael", "value": "terziarie" },
+  { "key": "terziarie di san raffaele", "value": "terziarie" },
+  { "key": "terzo prete", "value": "terzo prete" },
+  { "key": "terzo prete di s. maria zobenigo", "value": "terzo prete" },
+  { "key": "terzo prete in san bartolomeo", "value": "terzo prete" },
+  { "key": "terzo prete in san bortolomio", "value": "terzo prete" },
+  { "key": "terzo prete titolato della chiesa", "value": "terzo prete" },
+  {
+    "key": "terzo prete titolato di chiesa di san felice",
+    "value": "terzo prete"
+  },
+  {
+    "key": "terzo prete titolato di chiesa san felice",
+    "value": "terzo prete"
+  },
+  {
+    "key": "terzo prete titolato di s. maria zobenigo",
+    "value": "terzo prete"
+  },
+  { "key": "titolario della maddalena", "value": "titolario" },
+  { "key": "titolario di san geremia", "value": "titolario" },
+  { "key": "titolati di san geremia", "value": "titolati" },
+  { "key": "titolato della maddalena", "value": "titolato" },
+  { "key": "titolato della misericordia", "value": "titolato" },
+  { "key": "titolo del 3\u00b0 prete di san marcola", "value": "prete" },
+  { "key": "titolo di primo prete", "value": "primo prete" },
+  { "key": "titolo di primo prete di san martin", "value": "primo prete" },
+  { "key": "titolo di primo prete di san martino", "value": "primo prete" },
+  { "key": "titolo di quarto prete", "value": "quarto prete" },
+  { "key": "titolo di secondo prete", "value": "secondo prete" },
+  { "key": "titolo di secondo prete di san martino", "value": "secondo prete" },
+  { "key": "titolo di terzo prete", "value": "terzo prete" },
+  { "key": "titolo di terzo prete di san martino", "value": "terzo prete" },
+  { "key": "titolo presbiterale", "value": "titolo presbiterale" },
+  { "key": "titolo presbiteriale", "value": "titolo presbiteriale" },
+  { "key": "tre pretti titolatti e diacono", "value": "preti e diacono" },
+  { "key": "una monaca a sant'iseppo detta tacheo", "value": "monaca" },
+  { "key": "una monaca alla celestia", "value": "monaca" },
+  { "key": "uxorio nomine", "value": "uxorio nomine" },
+  {
+    "key": "venerande monache di santa giustina",
+    "value": "venerande monache"
+  },
+  { "key": "vescovo", "value": "vescovo" },
+  { "key": "vicariato in san bartolomio", "value": "vicario" },
+  { "key": "vicario", "value": "vicario" }
+]

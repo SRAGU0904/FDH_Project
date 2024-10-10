@@ -1,0 +1,48 @@
+[
+  {
+    "entity": "ARTE DEI CALLEGARI",
+    "entity_mentions": [
+      "scola de calegheri",
+      "scola de callegari tedeschi",
+      "scola della santissima annonziata dell'arte de callegari tedeschi"
+    ]
+  },
+  {
+    "entity": "ARTE DEI CIMADORI",
+    "entity_mentions": ["scuola dell'arte dei cimadori"]
+  },
+  { "entity": "ARTE DEI DEPENTORI", "entity_mentions": ["scola de depentori"] },
+  {
+    "entity": "ARTE DEI MARANGONI",
+    "entity_mentions": ["scola de marangoni", "scola overo arte de marangoni"]
+  },
+  { "entity": "ARTE DEI MARZERI", "entity_mentions": ["scola de marzeri"] },
+  {
+    "entity": "ARTE DEI MURERI",
+    "entity_mentions": ["scola osia arte de mureri"]
+  },
+  { "entity": "ARTE DEI VAROTERI", "entity_mentions": ["scola dei varoteri"] },
+  { "entity": "SCUOLA DEI LANERI", "entity_mentions": ["scola de laneri"] },
+  {
+    "entity": "SCUOLA DI SANTA MARIA E DI SAN CRISTOFORO DEI MERCANTI",
+    "entity_mentions": [
+      "scola de mercadanti",
+      "scola de mercanti",
+      "scola de mercanti alla madonna dell'orto",
+      "scola de mercanti di s. maria e s. christofolo",
+      "scola de mercanti di santa maria dell'orto",
+      "scola dei mercanti",
+      "scola di sant'orsola de marcanti",
+      "scola di santa maria del cristoforo alla madonna dell'orto",
+      "scola di santa maria e san cristofolo",
+      "scola di santa maria e san cristofolo all'orto",
+      "scola di santa maria e san cristoforo",
+      "scola di santa maria e san cristoforo detta de mercanti",
+      "scola di santa orsola",
+      "scole de mercanti",
+      "scuola di san christofolo de mercatanti",
+      "scuola di santa maria e san cristoforo",
+      "scuola di santa maria e san cristoforo detta de mercanti"
+    ]
+  }
+]
